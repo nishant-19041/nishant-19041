@@ -3,7 +3,7 @@
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on Machine Learning Projects and learning Competitive Programming.
-- 👯 I’m looking to collaborate on Artificial Intelligence, Machine Learning Projects.
+- 👯 I’m looking to collaborate on open source machine learning Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 🤔 I like data Insights and looking for one to help me in exploring.
 - 🎓 I believe in learn-Teach-Learn.
