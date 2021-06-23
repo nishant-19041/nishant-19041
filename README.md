@@ -8,7 +8,7 @@
 - 🤔 I like data Insights and looking for one to help me in exploring.
 - 🎓 I believe in learn-Teach-Learn.
 
-**Ask me for any queries, I'm happy to answer :-**  
+**Ask me anything, I'm happy to answer :-**  
 <a href="https://twitter.com/nishant_1303">
   <img align="left" alt="Nishant Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -25,5 +25,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 
-
-
+[![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishant-19041)](https://github.com/nishant-19041/github-readme-stats)
