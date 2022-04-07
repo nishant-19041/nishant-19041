@@ -2,7 +2,7 @@
 ### Welcome to my 💥 repository 💥
 
 **Let's have a look on my Personal Stuffs :-**
-- 🔭 I’m currently working on Web Development Projects and learning Competitive Programming.
+- 🔭 I’m currently learning Competitive Programming.
 - 👯 I’m looking to collaborate on open source AI/ML Projects.
 - 🤔 I like data Insights and looking for one to help me in exploring.
 - 🎓 I believe in learn-Teach-Learn.
